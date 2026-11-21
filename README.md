@@ -18,6 +18,7 @@ Développeur **front-end React · Next.js · TypeScript** depuis 2018, basé à 
 
 ## 📌 À découvrir
 
+- **[Pulse](https://github.com/alexreu/pulse-example)** · [démo](https://pulse-gilt-chi-55.vercel.app) : une interface CRM complète (projet de démonstration). Tableau de bord animé, tableau de données filtrable, pipeline en glisser-déposer, formulaires validés, thème clair et sombre, mobile. Next.js 16, TypeScript, Tailwind v4, tests Vitest et Playwright.
 - **[Nexa](https://github.com/alexreu/nexa)** : une landing page SaaS complète (projet de démonstration). Next.js 16, TypeScript, Tailwind v4, shadcn/ui, Motion, SEO soigné, tests E2E Playwright.
 - **[Booksy Receipt Bridge](https://github.com/alexreu/booksy-receipt-bridge)** : une extension Chromium et un service Windows qui impriment les reçus Booksy sur une imprimante de caisse (ESC/POS), avec aperçu du ticket. Monorepo TypeScript, tests Vitest, CI GitHub Actions.
 
